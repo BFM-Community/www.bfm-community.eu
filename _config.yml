@@ -2,15 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://www.bfm-community.eu
+title: BFM Community
+email: bfm-st@cmcc.it
+author: ""
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2015, 2018 Your Name. All Rights Reserved.'
+copyright: 'Copyright &copy; 2015, 2018 BFM Consortium. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -25,13 +25,13 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+# social:
+#   - title: twitter
+#     url: https://twitter.com/SBootstrap
+#   - title: github
+#     url: https://github.com/IronSummitMedia/startbootstrap
+#   - title: linkedin
+#     url:
 
 # Reading Files
 include:
