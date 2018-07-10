@@ -2,6 +2,18 @@
 
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
+## Develop locally
+
+ - Clone this repo;
+ - donwload dependencies:
+   ```shell
+   bundle install
+   ```
+ - run the site locally and start editing content:
+   ```shell
+   bundle exec jekyll liveserve
+   ```
+
 ## How to use
  - Place a image in `/img/services/`
  - Create posts to display your services. Use the follow as an example:
