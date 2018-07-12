@@ -1,0 +1,16 @@
+---
+layout: default
+img: dog.png
+category: Home
+section: about
+title: What is the BFM
+description: |
+---
+
+The Biogeochemical Flux Model is an open source model that describes
+the dynamics of major biogeochemical properties in marine ecosystems.
+[Learn more ...](model-description)
+
+Our mission is to provide a science based tool to disclose marine
+ecosystem ...
+

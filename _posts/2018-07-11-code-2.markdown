@@ -1,0 +1,19 @@
+---
+layout: default
+img: ipad.png
+category: Home
+section: code
+title: Get the code
+description: |
+---
+
+You can download the BFM latest release by compiling [this
+form](https://docs.google.com/forms/d/e/1FAIpQLScI7N8AcvFxBeCD-EXwMXkQhgMwjhOLz3MYX8Kb47oPCXRv6w/viewform?usp=sf_link){:target="_blank"}.
+
+After submission, an email will be sent to you with the direct link to
+download the code.
+
+The BFM is open source software freely available under the [GNU Public
+License](http://www.gnu.org/licenses/gpl.html "GNU Public
+License"){:target="_blank"}. The model description is available
+[here](/model-description).
