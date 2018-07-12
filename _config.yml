@@ -125,3 +125,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+cookieconsent:
+  url: "cookiepolicy"
+  message: "We have cookies!"
