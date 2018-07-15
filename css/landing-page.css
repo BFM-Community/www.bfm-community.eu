@@ -170,3 +170,8 @@ p.copyright {
     text-align: center;
     margin: 0 auto;
 }
+
+footer .media .media-left {
+    margin-top: 25px;
+    min-height: 73px;
+}
