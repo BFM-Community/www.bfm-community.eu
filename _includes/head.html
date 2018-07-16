@@ -12,7 +12,11 @@
     <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
+    {# if page.url == "/" #}
     <link href="{{ site.baseurl }}/css/landing-page.css" rel="stylesheet">
+    {# else #}
+    <link href="{{ site.baseurl }}/css/page.css" rel="stylesheet">
+    {# endif #}
 
     <!-- Custom Fonts -->
     <link href="{{ site.baseurl }}/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
