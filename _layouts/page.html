@@ -4,7 +4,11 @@
 
 	<body>
 		{% include header_subpage.html %}
-    {{ content }}
+    <div class="content page" id="{{ page.id }}">
+      <div class="container">
+        {{ content }}
+      </div>
+    </div>
 		{% include footer.html %}
 		{% include js.html %}
 	</body>
