@@ -16,4 +16,4 @@ download the code.
 The BFM is open source software freely available under the [GNU Public
 License](http://www.gnu.org/licenses/gpl.html "GNU Public
 License"){:target="_blank"}. The model description is available
-[here](/model-description).
+[here](model-description).
