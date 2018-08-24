@@ -21,13 +21,29 @@ functional subgroups to create a planktonic food web (e.g. diatoms,
 picophytoplankton, microzooplankton,
 etc.).
 
-<img src="{{site.baseurl}}/img/bfm_scheme_V5_pelagic_web.png" width="60%">
+<img class="center-me" src="{{site.baseurl}}/img/bfm_scheme_V5_pelagic_web.png" width="65%">
 
-The BFM code can be easily coupled to standard hydrodynamics codes, allowing for explicit description of the dynamics of biogeochemical properties in a spatially heterogeneous system. Presently BFM has been successfully coupled to the Princeton Ocean Model (POM), the Ocean Parallelise’ (OPA), and Nucleus for European Modelling of the Ocean (NEMO) and applied at the global ocean, regional, subregional and local space scales. When coupled with the hydrodynamics BFM can be used as a short term forecasting model or as a climate simulation model.
+The BFM code can be easily coupled to standard hydrodynamics codes,
+allowing for explicit description of the dynamics of biogeochemical
+properties in a spatially heterogeneous system. Presently BFM has been
+successfully coupled to the Princeton Ocean Model (POM), the Ocean
+Parallelise’ (OPA), and Nucleus for European Modelling of the Ocean
+(NEMO) and applied at the global ocean, regional, subregional and
+local space scales. When coupled with the hydrodynamics BFM can be
+used as a short term forecasting model or as a climate simulation
+model.
 
-From a mathematical point of view, the BFM is a set of ordinary differential equations describing the time rate of change of a number of biogeochemically active tracers. The BFM structure is flexible and modular, so that the number, type and properties of the functional groups can be easily modified and different model configurations can be used to focus on different aspects. The code is written in the FORTRAN90 language.
+From a mathematical point of view, the BFM is a set of ordinary
+differential equations describing the time rate of change of a number
+of biogeochemically active tracers. The BFM structure is flexible and
+modular, so that the number, type and properties of the functional
+groups can be easily modified and different model configurations can
+be used to focus on different aspects. The code is written in the
+FORTRAN90 language.
 
-In the future also some of the coupled physical-BFM systems will be released as examples of the complete modelling suite to be used for the simulation of the marine ecosystem dynamics.
+In the future also some of the coupled physical-BFM systems will be
+released as examples of the complete modelling suite to be used for
+the simulation of the marine ecosystem dynamics.
 
 ### BFM Presentations
 
