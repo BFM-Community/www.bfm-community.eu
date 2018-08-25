@@ -157,13 +157,13 @@ h6 {
 }
 
 footer {
-    padding: 50px 0;
+    padding: 50px 0 20px 0;
     background-color: #f8f8f8;
 }
 
 p.copyright {
     margin: 15px 0 0;
-    padding-top: 20px;
+    padding-top: 50px;
 }
 
 .center-me {
