@@ -9,7 +9,7 @@ description: |
 
 The Biogeochemical Flux Model (BFM) is an open source code to simulate 
 the dynamics of major biogeochemical properties in lower trophic levels of marine ecosystems.
-[Learn more ...](model-description)
+[Learn more ...](bfm-description)
 
 Our mission is to enhance the understanding of worldwide marine ecosystem 
 by delivering a modelling framework at best of present-day scientific knowledge.

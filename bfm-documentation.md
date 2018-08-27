@@ -1,7 +1,7 @@
 ---
 layout: page
-id: publications
-title: Publications
+id: documentation
+title: Documentation
 description: |
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BFM Quick Guidel
+title: BFM Quick Guide
 id: quick-guide
 description: |
 ---
