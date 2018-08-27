@@ -1,11 +1,15 @@
-# Landing Page Jekyll theme
+# BFM public website 
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+The website uses github pages through the Jekyll static site generator (https://jekyllrb.com/) and its implemtation is based on the Landing Page theme [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+
+## Visualize the current website
+
+https://cmcc-foundation.github.io/www.bfm-community.eu/
 
 ## Develop locally
 
  - Clone this repo;
- - donwload dependencies:
+ - download dependencies:
    ```shell
    bundle install
    ```
