@@ -12,4 +12,4 @@ the dynamics of major biogeochemical properties in lower trophic levels of marin
 [Learn more ...](model-description)
 
 Our mission is to enhance the understanding of worldwide marine ecosystem 
-by delivering a modelling framework at best of current scientific knowledge.
+by delivering a modelling framework at best of present-day scientific knowledge.
