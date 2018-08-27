@@ -130,9 +130,9 @@ compress_html:
     envs: development
 
 # Cookie consent popup message
-cookieconsent:
-  url: "cookiepolicy"
-  message: "We have cookies!"
+# cookieconsent:
+#   url: "cookiepolicy"
+#   message: "We have cookies!"
 
 # Google Analytics
 # google_analytics: UA-122302561-1
