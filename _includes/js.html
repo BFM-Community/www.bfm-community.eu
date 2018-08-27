@@ -8,4 +8,16 @@
 <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
 
 <!-- Custom Theme JavaScript -->
+{% if page.url == "/" %}
 <script src="{{ site.baseurl }}/js/landing-page.js"></script>
+
+       <script>
+         $(window).scroll(function () {
+            if ($(document).scrollTop() == 0) {
+               $('#topnav, .navbar-nav>li>a, .navbar-nav>a, .navbar-nav>.active>a, .navbar-nav>.active>a:hover, .navbar-nav>.active>a:focus').removeClass('navbar-not-at-top');
+            } else {
+               $('#topnav, .navbar-nav>li>a, .navbar-nav>.active>a, .navbar-nav>.active>a:hover, .navbar-nav>.active>a:focus').addClass('navbar-not-at-top');
+            }
+         });
+</script>
+{% endif %}
