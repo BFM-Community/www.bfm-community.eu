@@ -1,7 +1,7 @@
 version: "3"
 services:
   site:
-    command: jekyll liveserve
+    command: "jekyll liveserve --host 0.0.0.0"
     image: jekyll/jekyll:latest
     volumes:
       - $PWD:/srv/jekyll
@@ -9,5 +9,3 @@ services:
     ports:
       - 4000:4000
       - 35729:35729
-      - 3000:3000
-      -   80:4000
