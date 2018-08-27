@@ -5,9 +5,10 @@ title: Publications
 description: |
 ---
 
-## BFM Report Series
+## BFM Report Series - Manuals
+<br/>
 
-***N.1*** Vichi M., Lovato T., Lazzari P., Cossarini G., Gutierrez Mlot E.,
+N.1 Vichi M., Lovato T., Lazzari P., Cossarini G., Gutierrez Mlot E.,
 Mattia G., Masina S., McKiver W. J., Pinardi N., Solidoro C., Tedesco
 L., Zavatarelli M. (2015). The Biogeochemical Flux Model (BFM):
 Equation Description and User Manual. BFM version 5.1. BFM Report
@@ -20,12 +21,12 @@ European Modelling of the Ocean). BFM Report series N. 2, Release 1.0,
 August 2015, Bologna, Italy, http://bfm-community.eu, pp. 31
 [[Download](files/bfmnemomanual_r1.0_201508.pdf)]
 
-### Papers
+---
 
-**[Download](files/BFM_bibliography_2018-02-09.bib) the bibliography
-in BibTeX format**
+## Scientific Bibliography ([BibTex](files/BFM_bibliography_2018-02-09.bib))
+<br/>
 
-#### 2017
+### 2017
 
 Mussap, G., & Zavatarelli, M. (2017). A numerical study of the
 benthic–pelagic coupling in a shallow shelf sea (Gulf of Trieste).
@@ -47,7 +48,7 @@ Blomster, J., Vainio, J., Granskog, M. A. (2017). Life associated with
 Baltic Sea ice. In Biological oceanography of the Baltic Sea (pp.
 333-357). Springer, Dordrecht.
 
-#### 2016
+### 2016
 
 Epicoco, I., Mocavero, S., Macchia, F., Vichi, M., Lovato, T., Masina,
 S., Aloisio, G. (2016). Performance and results of the high-resolution
@@ -67,7 +68,7 @@ Tedesco, L., Piroddi, C., Kämäri, M., & Lynam, C. (2016). Capabilities
 of Baltic Sea models to assess environmental status for marine
 biodiversity. Marine Policy, 70, 1-12.
 
-#### 2015
+### 2015
 
 McKiver, W. J., Vichi, M., Lovato, T., Storto, A., & Masina, S.
 (2015). Impact of increased grid resolution on global marine
@@ -92,7 +93,7 @@ Eilola, K., Almroth-Rosell, E., Edman, M., Eremina, T., Larsen, J.,
 Janas, U., Razinkovas-Basiukas, A., Timmermann, K., Tedesco, L.,
 Voloshchuk, E. (2015). Model set-up at COCOA study sites. SMHI.
 
-#### 2014
+### 2014
 
 Tedesco, L., & Vichi, M. (2014). Sea ice biogeochemistry: A guide for
 modellers. PloS one, 9(2), e89217.
@@ -109,7 +110,7 @@ Pinardi, N., Marcomini, A. (2014). An ensemble of models for
 identifying climate change scenarios in the Gulf of Gabes, Tunisia.
 Reg Environ Change, DOI 10.1007/s10113-013-0430-x.
 
-#### 2013
+### 2013
 
 Ruggio, R., Vichi, M., Paparella, F., & Masina, S. (2013). Climatic
 trends of the equatorial undercurrent: A backup mechanism for
@@ -135,7 +136,7 @@ Model for the Marseille Coastal Area (NW Mediterranean Sea): What
 Complexity Is Required in the Coastal Zone? PLoS ONE 8(12): e80012.
 doi:10.1371/journal.pone.0080012
 
-#### 2012
+### 2012
 
 Alessandri, A., Fogli, P. G., Vichi, M., and Zeng, N. (2012)
 Strengthening of the hydrological cycle in future scenarios:
@@ -178,7 +179,7 @@ N., Lazzari, P., Salon, S., Watzl, J., Schiffers, M., Kranzlmueller,
 D., 2012. e-Infrastructure for Remote Instrumentation, Computer
 Standards & Interfaces. doi:10.1016/j.csi.2011.10.012
 
-#### 2011
+### 2011
 
 Berline, L., Stemmann, L., Vichi, M., Lombard, F., and Gorsky,
 G., 2011. Impact of appendicularians on detritus and export fluxes: a
@@ -206,7 +207,7 @@ The emergence of ocean biogeochemical provinces: A quantitative
 assessment and a diagnostic for model evaluation. Global
 Biogeochemical Cycles, 25(2).
 
-#### 2010
+### 2010
 
 Lazzari, P., Teruzzi, A., Salon, S., Campagna, S., Calonaci, C.,
 Colella, S., Tonani, M., Crise, A., 2010. Pre-operational short-term
@@ -236,7 +237,7 @@ Biologically-Active Layer for numerical studies of the sea ice
 ecosystem. Ocean Modelling, 35, 89--104.
 doi:10.1016/j.ocemod.2010.06.008
 
-#### 2009
+### 2009
 
 Cheptsov, A., Dichev, K., Keller, R., Lazzari, P., Salon, S., 2009.
 Porting the OPATM-BFM Application to a Grid e-Infrastructure-
@@ -253,14 +254,14 @@ S., 2009. Modelling approach to the assessment of biogenic fluxes at a
 selected Ross Sea site, Antarctica. Ocean Sci. Discuss., 6,
 1477--1512. doi:http://www.ocean-sci-discuss.net/6/1477/2009/
 
-#### 2008
+### 2008
 
 Vichi, M., Masina, S., and Nencioli, F., 2008. A process-oriented
 model study of equatorial Pacific phytoplankton: The role of iron
 supply and tropical instability waves. Progress in Oceanography, 78,
 147-162.
 
-#### 2007
+### 2007
 
 Carniel, S., Vichi, M., Sclavo, M., 2007. Sensitivity of a coupled
 physical--biological model to turbulence: high-frequency simulations
@@ -279,20 +280,20 @@ Vichi, M., Pinardi, N., and Masina, S., 2007. A generalized model of
 pelagic biogeochemistry for the global ocean ecosystem. Part I:
 theory. Journal of Marine Systems, 64, 89-109.
 
-#### 2006
+### 2006
 
 Polimene, L., Pinardi , N., Zavatarelli, M., Colella, S., 2006. The
 Adriatic Sea ecosystem seasonal cycle: validation of a three
 dimensional numerical model. Journal of Geophysical Research. doi:
 10129/2005JC003260.
 
-#### 2004
+### 2004
 
 Vichi, M., Ruardij, P., and Baretta, J. W., 2004. Link or sink: a
 modelling interpretation of the open Baltic biogeochemistry.
 Biogeosciences, 1, 79-100.
 
-#### 2003
+### 2003
 
 Vichi, M., May, W., and Navarra, A., 2003. Response of a complex
 ecosystem model of the northern Adriatic Sea to a regional climate

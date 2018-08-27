@@ -7,14 +7,12 @@ title: Documentation
 description: |
 ---
 
-BFM Manual
-Authors + link
+Check out the complete [scientific bibliography](publications) or get it in once with the
+[bibtex archive](files/BFM_bibliography_2018-02-09.bib).
 
-OCEANO MODEL COUPLINGs
-NEMO authors + link
-POM authors + link
+Get the reference manuals from BFM Report Series: 
 
-...
+- BFM Core Manual [(pdf)](files/bfm-V5.1.0-manual_r1.1_201508.pdf)
 
-Check out all BFM [publications](publications) or get it in once with
-[bibtex](files/BFM_bibliography_2018-02-09.bib)
+- BFM-NEMO Coupling [(pdf)](files/bfm-nemo-manual_r1.0_201508.pdf)
+
