@@ -161,6 +161,10 @@ h6 {
     }
 }
 
+#services img {
+    border-radius: 15px;
+}
+
 footer {
     padding: 50px 0 20px 0;
     background-color: #f8f8f8;

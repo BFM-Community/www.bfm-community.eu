@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: documentation.png
 category: Home
 section: documentation
 title: Documentation
