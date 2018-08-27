@@ -7,12 +7,12 @@
 
 .navbar-not-at-top {
     background-color: #f8f8f8;
-    transition: all 0.2s ease-out;
+    transition: all 0.5s ease-out;
 }
 
 .navbar-not-at-top .navbar-brand, .navbar-not-at-top .navbar-nav>.active>a, .navbar-not-at-top .navbar-nav>.active>a:hover, .navbar-not-at-top .navbar-nav>.active>a:focus, .navbar-not-at-top .navbar-nav>a, .navbar-not-at-top .navbar-nav>li>a {
     color: #777777;
-    transition: all 0.2s ease-out;
+    /* transition: all 0.2s ease-out; */
 }
 
 .navbar-not-at-top .navbar-nav>.active>a, .navbar-not-at-top .navbar-nav>.active>a:focus ,.navbar-not-at-top .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>.active>a:hover {
@@ -21,5 +21,5 @@
 
 .navbar-not-at-top .navbar-nav>.active>a, .navbar-not-at-top .navbar-nav>.active>a:hover, .navbar-not-at-top .navbar-nav>.active>a:focus {
     background-color: #e7e7e7;
-    transition: all 0.2s ease-out;
+    transition: all 0.5s ease-out;
 }
