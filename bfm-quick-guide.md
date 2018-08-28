@@ -38,7 +38,7 @@ cd $BFMDIR/build
 
 The user-dependent options are set either through the command line of the script or by adjusting (or adding) an architecture file in directory $BFMDIR/compilers. Default file is gfortran.inc. The standard GNU gmake variables are used for compiler and archiver names. Remember to add the right path for the NetCDF library files in the appropriate .inc file.
 
-The BFM STANDALONE model configurations are called presets and the standard test case is compiled by default with the command
+If preset is not specified (see below),  the STANDALONE_PELAGIC configuration is compiled by default with the command
 
 ```bash
 ./bfm_configure.sh -gcd
@@ -46,21 +46,14 @@ The BFM STANDALONE model configurations are called presets and the standard test
 
 (see the script help for details on the options) and if successful will produce the following output
 
-.................................. Makefile is ready.
-
-STANDALONE_PELAGIC generation done!
-
-Starting STANDALONE_PELAGIC compilation...
-
-STANDALONE_PELAGIC compilation done!
-
-Go to $BFMDIR/run/standalone.pelagic and execute command:
-
 ```bash
+.................................. Makefile is ready.
+STANDALONE_PELAGIC generation done!
+Starting STANDALONE_PELAGIC compilation...
+STANDALONE_PELAGIC compilation done!
+Go to $BFMDIR/run/standalone.pelagic and execute command:
 ./bfm_standalone.x
 ```
-
-
 
 The execution of the configuration script creates the executable and the running environment for the default preset of the STANDALONE model (called STANDALONE_PELAGIC). The list of the available presets is obtained with the command
 
@@ -72,14 +65,8 @@ The generated namelists are copied to the directory $BFMDIR/run/standalone.pelag
 
 ```bash
 ./bfm_standalone.x
+(./bfm_standalone.x &> outputfile to redirect the output messages to a file in bash.)
 ```
-or
-
-```bash
-./bfm_standalone.x &> outputfile
-```
-
-to redirect the output messages to a file in bash.
 
 The following test cases are available:
 
@@ -94,4 +81,10 @@ Surface layer model in a temperate pelagic water column with seasonal sinusoidal
 ```bash
 ./bfm_configure.sh -gcd -p STANDALONE_PELAGIC
 ```
+
+---
+
+All details about model description, installation, compilation and model code structure are available in BFM Core Manual (see Documentation section).
+
+
 
