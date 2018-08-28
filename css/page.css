@@ -8,3 +8,13 @@
     font-weight: 400;
 }
 
+#documentation {
+    font-family: Monospace;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.2;
+}
+
+#documentation p {
+    margin: 16px 0 16px 0;
+}
