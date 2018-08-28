@@ -1,12 +1,11 @@
 ---
 layout: page
-id: documentation
 title: Documentation
+id: documentation
 description: |
 ---
 
 ## BFM Report Series - Manuals
-<br/>
 
 N.1 Vichi M., Lovato T., Lazzari P., Cossarini G., Gutierrez Mlot E.,
 Mattia G., Masina S., McKiver W. J., Pinardi N., Solidoro C., Tedesco
@@ -24,7 +23,6 @@ August 2015, Bologna, Italy, http://bfm-community.eu, pp. 31
 ---
 
 ## Scientific Bibliography ([BibTex](files/BFM_bibliography_2018-02-09.bib))
-<br/>
 
 ### 2017
 

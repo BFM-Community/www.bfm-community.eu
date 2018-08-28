@@ -1,11 +1,11 @@
 ---
 layout: page
-title: BFM Model
+title:  Description
 id: bfm-description
 description: |
 ---
 
-# Description of the BFM
+## BFM background and modelling framework
 
 The ***Biogeochemical Flux Model (BFM)*** is a numerical model, which
 describes the dynamics of major biogeochemical processes occurring in
@@ -20,8 +20,6 @@ These broad functional classifications are further partitioned into
 functional subgroups to create a planktonic food web (e.g. diatoms,
 picophytoplankton, microzooplankton,
 etc.).
-
-<img class="center-me" src="{{site.baseurl}}/img/bfm_scheme_V5_pelagic_web.png" width="65%">
 
 The BFM code can be easily coupled to standard hydrodynamics codes,
 allowing for explicit description of the dynamics of biogeochemical
@@ -45,11 +43,4 @@ In the future also some of the coupled physical-BFM systems will be
 released as examples of the complete modelling suite to be used for
 the simulation of the marine ecosystem dynamics.
 
-### BFM Presentations
-
-The following presentations have been given during the BFM Official
-Release Meeting, held at CMCC in Bologna on March 19th, 2013.
-
- - [Description of the BFM consortium](files/01_BFM_Consortium_Zavatarelli.pdf) (M. Zavatarelli, UNIBO)
- - [BFM, an open source stoichiometric model](files/02_BFM_Introduction_Vichi.pdf) (M. Vichi, CMCC-INGV)
- - [Overview of BFM applications](files/03_BFM_Applications_Lazzari.pdf) (P. Lazzari, OGS)
+<img class="center-me" src="{{site.baseurl}}/img/bfm_scheme_V5_pelagic_web.png" width="65%">

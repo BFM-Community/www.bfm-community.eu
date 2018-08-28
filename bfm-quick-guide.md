@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BFM Quick Guide
+title: Quick Guide
 id: quick-guide
 description: |
 ---
@@ -24,7 +24,7 @@ description: |
 
 <br/>
 
-### Get started with STANDALONE preset
+## Get started with STANDALONE presets
 
 <br/>
 
