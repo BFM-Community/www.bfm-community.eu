@@ -41,28 +41,13 @@ Here below the chronology of work plan documents approved by the Steering Commit
 
 #### System Team members
 
-Name                  | Institution
-----------------------|------------
-Luca Giacomelli       | UNIBO DIFA
-Nadia Pinardi	      | UNIBO DIFA
-Marco Zavatarelli	  | UNIBO DIFA
-Giulia Mussap	      | UNIBO DIFA
-Emanuela Fiori	      | UNIBO DIFA
-Tomas Lovato	      | CMCC
-Silvia Mocavero	      | CMCC
-Andrea Russo	      | CMCC
-Simona Masina	      | CMCC
-Paolo Lazzari	      | OGS
-Alessandro Crise	  | OGS
-Cosimo Solidoro	      | OGS
-Giorgio Bolzon	      | OGS
-Gianpiero Cossarini	  | OGS
-Simone Libralato	  | OGS
-Ekin Akoglu	          | OGS
-Marcello Vichi	      | UCT
-Howard Waldron	      | UCT
-Raymond Roman	      | UCT
-Issufo Halo	          | UCT
-Bjorne Backeberg	  | UCT
-Chris Reason	      | UCT
-Letizia Tedesco	      | SYKE
+|
+__UNIBO DIFA__ :  | Marco Zavatarelli | Nadia Pinardi | Isabella Scroccaro | Luca Giacomelli |
+|
+__CMCC__       :  | Tomas Lovato | Momme Butenschön | Andrea Russo | Simona Masina |
+|
+__OGS__        :  | Paolo Lazzari | Giorgio Bolzon | Gianpiero Cossarini | Simone Libralato | Alessandro Crise | Cosimo Solidoro |
+|
+__UCT__        :  | Marcello Vichi | Howard Waldron | Raymond Roman | Chris Reason |
+|
+__SYKE__       :  | Letizia Tedesco |
