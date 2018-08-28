@@ -30,14 +30,20 @@ description: |
 
 Configuration and deployment of the model is done automatically by the script bfm_configure.sh found in the build directory. The minimal user local settings for compilation is provided by means of the environmental shell variable BFMDIR
 
+```bash
 export BFMDIR=/path/to/bfm
 cd $BFMDIR/build
 ./bfm_configure.sh -h
+```
+
 The user-dependent options are set either through the command line of the script or by adjusting (or adding) an architecture file in directory $BFMDIR/compilers. Default file is gfortran.inc. The standard GNU gmake variables are used for compiler and archiver names. Remember to add the right path for the NetCDF library files in the appropriate .inc file.
 
 The BFM STANDALONE model configurations are called presets and the standard test case is compiled by default with the command
 
+```bash
 ./bfm_configure.sh -gcd
+```
+
 (see the script help for details on the options) and if successful will produce the following output
 
 .................................. Makefile is ready.
@@ -49,26 +55,43 @@ Starting STANDALONE_PELAGIC compilation...
 STANDALONE_PELAGIC compilation done!
 
 Go to $BFMDIR/run/standalone.pelagic and execute command:
+
+```bash
 ./bfm_standalone.x
- 
+```
 
 
 
 The execution of the configuration script creates the executable and the running environment for the default preset of the STANDALONE model (called STANDALONE_PELAGIC). The list of the available presets is obtained with the command
 
+```bash
 ./bfm_configure.sh -P 
+```
+
 The generated namelists are copied to the directory $BFMDIR/run/standalone.pelagic and the model is run by executing
 
+```bash
 ./bfm_standalone.x
+```
 or
+
+```bash
 ./bfm_standalone.x &> outputfile
+```
+
 to redirect the output messages to a file in bash.
 
 The following test cases are available:
 
 Simple carbonate equilibrium test (STANDALONE_CO2TEST)
-./bfm_configure.sh -gcd -p STANDALONE_CO2TEST
-Surface layer model in a temperate pelagic water column with seasonal sinusoidal variability (STANDALONE_PELAGIC)
-./bfm_configure.sh -gcd -p STANDALONE_PELAGIC
 
+```bash
+./bfm_configure.sh -gcd -p STANDALONE_CO2TEST
+```
+
+Surface layer model in a temperate pelagic water column with seasonal sinusoidal variability (STANDALONE_PELAGIC)
+
+```bash
+./bfm_configure.sh -gcd -p STANDALONE_PELAGIC
+```
 
