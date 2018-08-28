@@ -18,3 +18,18 @@ h1, .h1, h2, .h2, h3, .h3  {
 #bfm-consortium td {
     padding: 0 20px 0 0;
 }
+
+.callout {
+    float: right;
+    height: auto;
+    width: auto;
+    padding: 20px;
+}
+
+@media(min-width:767px) {
+    .callout {
+        float: right;
+        padding: 20px;
+        max-width: 55%;
+    }
+}

@@ -7,6 +7,8 @@ description: |
 
 ## BFM background and modelling framework
 
+![BFM Scheme](/img/bfm_scheme_V5_pelagic_web.png){: .callout}
+
 The Biogeochemical Flux Model is a modelling framework, which
 describes the dynamics of major biogeochemical processes occurring in
 benthic, pelagic, and seaice components of marine ecosystems.
@@ -43,8 +45,6 @@ FORTRAN90 language.
 In the future also some of the coupled physical-BFM systems will be
 released as examples of the complete modelling suite to be used for
 the simulation of the marine ecosystem dynamics.
-
-<img class="center-me" src="{{site.baseurl}}/img/bfm_scheme_V5_pelagic_web.png" width="65%">
 
 # Add here a new presentation with overall contents ??
 
