@@ -7,11 +7,12 @@ description: |
 
 ## BFM background and modelling framework
 
-The ***Biogeochemical Flux Model (BFM)*** is a numerical model, which
+The Biogeochemical Flux Model is a modelling framework, which
 describes the dynamics of major biogeochemical processes occurring in
-marine systems. Presently BFM considers the cycles of nitrogen,
-phosphorus, silica, carbon, and oxygen in the water dissolved phase,
-as well as in the plankton, detritus, and benthic compartments.
+benthic, pelagic, and seaice components of marine ecosystems.
+Presently BFM considers the cycles of nitrogen, phosphorus, silica,
+carbon, and oxygen in the water dissolved phase, as well as in the planktonic
+organisms, detritus, and seaice and benthic compartments.
 Plankton dynamics are parameterized by considering a number of
 plankton functional groups, each representing a class of taxa. BFM
 plankton functional groups are subdivided in producers
@@ -24,8 +25,8 @@ etc.).
 The BFM code can be easily coupled to standard hydrodynamics codes,
 allowing for explicit description of the dynamics of biogeochemical
 properties in a spatially heterogeneous system. Presently BFM has been
-successfully coupled to the Princeton Ocean Model (POM), the Ocean
-Parallelise’ (OPA), and Nucleus for European Modelling of the Ocean
+successfully coupled to the Princeton Ocean Model (POM), OGS Transport
+Model (OGSTM), and Nucleus for European Modelling of the Ocean
 (NEMO) and applied at the global ocean, regional, subregional and
 local space scales. When coupled with the hydrodynamics BFM can be
 used as a short term forecasting model or as a climate simulation
@@ -44,3 +45,6 @@ released as examples of the complete modelling suite to be used for
 the simulation of the marine ecosystem dynamics.
 
 <img class="center-me" src="{{site.baseurl}}/img/bfm_scheme_V5_pelagic_web.png" width="65%">
+
+# Add here a new presentation with overall contents ??
+

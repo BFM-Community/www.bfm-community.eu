@@ -7,8 +7,6 @@ description: |
 
 ## Installation Requirements
 
-<br/>
-
 #### Supported architectures:
 
 - Linux
@@ -25,8 +23,6 @@ description: |
 <br/>
 
 ## Get started with STANDALONE presets
-
-<br/>
 
 Configuration and deployment of the model is done automatically by the script bfm_configure.sh found in the build directory. The minimal user local settings for compilation is provided by means of the environmental shell variable BFMDIR
 
