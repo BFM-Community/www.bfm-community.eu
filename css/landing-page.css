@@ -168,6 +168,7 @@ h6 {
 
 #services img {
     /* border-radius: 15px; */
+    margin-top: 10px;
 }
 
 .language-bash {
