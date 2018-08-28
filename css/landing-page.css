@@ -95,13 +95,13 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
 }
 
 .content-section-b {
     padding: 50px 0;
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
+    background-color: #f8f8f8;
 }
 
 .section-heading {
@@ -164,6 +164,14 @@ h6 {
 
 #services img {
     /* border-radius: 15px; */
+}
+
+.language-bash pre {
+    background-color: #222;
+}
+
+.language-bash code {
+    color: white;
 }
 
 footer {
