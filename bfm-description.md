@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The BFM Model
-id: model-description
+title: BFM Model
+id: bfm-description
 description: |
 ---
 
