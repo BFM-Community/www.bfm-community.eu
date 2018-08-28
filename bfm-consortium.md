@@ -25,7 +25,7 @@ Here below the chronology of work plan documents approved by the Steering Commit
  - BFM Work Plan 2011-2013 ([pdf](files/BFM_agreement_annexes.pdf))
  - BFM Work Plan 2015-2017 ([pdf](files/BFM_WorkPlan_2015_2017.pdf))
 
----
+<br/>
 
 #### System Team Coordinator: Marco Zavatarelli (UNIBO DIFA)
 
@@ -39,7 +39,7 @@ Here below the chronology of work plan documents approved by the Steering Commit
 
 ---
 
-#### System Team members
+### System Team members
 
 |
 __UNIBO DIFA__ :  | Marco Zavatarelli | Nadia Pinardi | Isabella Scroccaro | Luca Giacomelli |
@@ -48,6 +48,7 @@ __CMCC__       :  | Tomas Lovato | Momme Butenschön | Andrea Russo | Simona Mas
 |
 __OGS__        :  | Paolo Lazzari | Giorgio Bolzon | Gianpiero Cossarini | Simone Libralato | Alessandro Crise | Cosimo Solidoro |
 |
-__UCT__        :  | Marcello Vichi | Howard Waldron | Raymond Roman | Chris Reason |
+__UCT__        :  | Marcello Vichi | Abdoulkadri Chama | Giles Fearon | Mark Hague | Riesna Audh | Shantelle Smith |
+|                 | Jonathan Rogerson |
 |
 __SYKE__       :  | Letizia Tedesco |
