@@ -7,8 +7,6 @@ description: |
 
 ## Installation Requirements
 
-<br/>
-
 #### Supported architectures:
 
 - Linux
@@ -22,11 +20,7 @@ description: |
 - [NetCDF library](http://www.unidata.ucar.edu/software/netcdf). It is mandatory that the library has been compiled with the same compiler used for the model compilation (as F90 netcdf module is used).
 - [GNU make](https://www.gnu.org/software/make/). Makefile only works with GNU make, therefore substitute your system make or use an alias to ensure that the right one is set in case you are not on a linux machine.
 
-<br/>
-
 ## Get started with STANDALONE presets
-
-<br/>
 
 Configuration and deployment of the model is done automatically by the script bfm_configure.sh found in the build directory. The minimal user local settings for compilation is provided by means of the environmental shell variable BFMDIR
 
