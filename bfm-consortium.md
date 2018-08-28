@@ -41,4 +41,28 @@ Here below the chronology of work plan documents approved by the Steering Commit
 
 #### System Team members
 
-
+Name                  | Institution
+----------------------|------------
+Luca Giacomelli       | UNIBO DIFA
+Nadia Pinardi	      | UNIBO DIFA
+Marco Zavatarelli	  | UNIBO DIFA
+Giulia Mussap	      | UNIBO DIFA
+Emanuela Fiori	      | UNIBO DIFA
+Tomas Lovato	      | CMCC
+Silvia Mocavero	      | CMCC
+Andrea Russo	      | CMCC
+Simona Masina	      | CMCC
+Paolo Lazzari	      | OGS
+Alessandro Crise	  | OGS
+Cosimo Solidoro	      | OGS
+Giorgio Bolzon	      | OGS
+Gianpiero Cossarini	  | OGS
+Simone Libralato	  | OGS
+Ekin Akoglu	          | OGS
+Marcello Vichi	      | UCT
+Howard Waldron	      | UCT
+Raymond Roman	      | UCT
+Issufo Halo	          | UCT
+Bjorne Backeberg	  | UCT
+Chris Reason	      | UCT
+Letizia Tedesco	      | SYKE

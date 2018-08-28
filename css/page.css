@@ -14,3 +14,7 @@ h1, .h1, h2, .h2, h3, .h3  {
     font-size: 15px;
     font-weight: 400;
 }
+
+#bfm-consortium td {
+    padding: 0 20px 0 0;
+}
