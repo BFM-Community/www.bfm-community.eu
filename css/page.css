@@ -1,20 +1,9 @@
-.page h1 {
-    margin-bottom: 20px;
+h1, .h1, h2, .h2, h3, .h3  {
+    margin-bottom: 30px;
 }
 
 .content {
     line-height: 1.5;
     font-size: 18px;
     font-weight: 400;
-}
-
-#documentation {
-    font-family: Monospace;
-    font-weight: 500;
-    font-size: 15px;
-    line-height: 1.2;
-}
-
-#documentation p {
-    margin: 16px 0 16px 0;
 }
