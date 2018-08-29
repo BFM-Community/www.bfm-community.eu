@@ -118,6 +118,10 @@ h6 {
     border-top: 3px solid #e7e7e7;
 }
 
+.vertical-spacing {
+    padding-top: 40px;
+}
+
 .banner {
     padding: 50px 0;
     color: #f8f8f8;
