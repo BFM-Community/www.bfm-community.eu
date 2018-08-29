@@ -149,11 +149,11 @@ h6 {
 }
 
 .banner .mail-link {
-    color: #777777;
+    color: #F08080;
 }
 
 .banner .mail-link:hover {
-    color: white;
+    color: #CD5C5C;
     text-decoration: underline;
 }
 
