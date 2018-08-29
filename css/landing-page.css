@@ -148,6 +148,15 @@ h6 {
     font-size: 3em;
 }
 
+.banner .mail-link {
+    color: #777777;
+}
+
+.banner .mail-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
 .banner .consortium-description {
     margin-bottom: 50px;
 }
