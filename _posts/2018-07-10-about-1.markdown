@@ -1,6 +1,6 @@
 ---
 layout: default
-img: code.png
+img: about.png
 category: Home
 section: about
 title: What is BFM, exactly?
