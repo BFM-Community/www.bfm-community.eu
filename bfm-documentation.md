@@ -12,13 +12,13 @@ Mattia G., Masina S., McKiver W. J., Pinardi N., Solidoro C., Tedesco
 L., Zavatarelli M. (2015). The Biogeochemical Flux Model (BFM):
 Equation Description and User Manual. BFM version 5.1. BFM Report
 series N. 1, Release 1.1, July 2015, Bologna, Italy,
-http://bfm-community.eu, pp. 104 [[Download](files/bfmV5.1.0manual_r1.1_201508.pdf)]
+http://bfm-community.eu, pp. 104 ([pdf](../files/bfm-V5.1.0-manual_r1.1_201508.pdf))
 
 N.2 Vichi M., Lovato T., Gutierrez Mlot E., McKiver W. (2015).
 Coupling BFM with Ocean models: the NEMO model (Nucleus for the
 European Modelling of the Ocean). BFM Report series N. 2, Release 1.0,
 August 2015, Bologna, Italy, http://bfm-community.eu, pp. 31
-[[Download](files/bfmnemomanual_r1.0_201508.pdf)]
+([pdf](../files/bfm-nemo-manual_r1.0_201508.pdf))
 
 ---
 
