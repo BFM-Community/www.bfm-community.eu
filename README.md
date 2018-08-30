@@ -38,6 +38,25 @@ title: The section title
 The description of this section
 ```
 
+### Add a secondary page
+
+Create a Markdown page in project root with a "page" layout, a title
+and an id. For example, this is the Jekyll front matter for the [BFM
+Quick guide](bfm-quick-guide.md):
+
+```yaml
+---
+layout: page
+title: Quick Guide
+id: quick-guide
+description: |
+---
+```
+
+### Change the header, footer, about or contact sections in the homepage.
+
+** TODO **
+
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 For more Jekyll details, read [documentation](http://jekyllrb.com/).
