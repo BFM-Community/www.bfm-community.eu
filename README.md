@@ -62,6 +62,10 @@ For example, if you want to change the "about" text, [edit the
 about.html file](_includes/about.hml) directly in the Github editor,
 or in your local working directory.
 
+### Website SEO Optimization
+
+Please follow [this guide](https://help.github.com/articles/search-engine-optimization-for-github-pages/).
+
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 For more Jekyll details, read [documentation](http://jekyllrb.com/).
