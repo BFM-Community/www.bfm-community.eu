@@ -46,5 +46,3 @@ In the future also some of the coupled physical-BFM systems will be
 released as examples of the complete modelling suite to be used for
 the simulation of the marine ecosystem dynamics.
 
-# Add here a new presentation with overall contents ??
-
