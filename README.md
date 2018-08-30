@@ -29,7 +29,7 @@ https://cmcc-foundation.github.io/www.bfm-community.eu/
  - Create posts to display your section in the homepage. Use the
    following as an example:
 
-```txt
+```yaml
 ---
 layout: default
 img: code.png
@@ -40,9 +40,9 @@ The description of this section
 
 ### Add a secondary page
 
-Create a Markdown page in project root with a "page" layout, a title
-and an id. For example, this is the Jekyll front matter for the [BFM
-Quick guide](bfm-quick-guide.md):
+Create a Markdown page in the project root with a "page" layout, a
+title and an id. For example, this is the Jekyll front matter for the
+[BFM Quick guide](bfm-quick-guide.md):
 
 ```yaml
 ---
@@ -53,9 +53,14 @@ description: |
 ---
 ```
 
-### Change the header, footer, about or contact sections in the homepage.
+### Change the header, footer, about or contact sections in the Home page
 
-** TODO **
+Go to the Jekyll partials directory in [_includes](_includes) and find
+out the section you want to modify.
+
+For example, if you want to change the "about" text, [edit the
+about.html file](_includes/about.hml) directly in the Github editor,
+or in your local working directory.
 
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
