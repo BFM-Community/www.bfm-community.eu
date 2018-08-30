@@ -66,6 +66,8 @@ or in your local working directory.
 
 Please follow [this guide](https://help.github.com/articles/search-engine-optimization-for-github-pages/).
 
+To add SEO tags, please read the [usage page](https://jekyll.github.io/jekyll-seo-tag/usage/) of the Jekyll SEO Tag plugin.
+
 ## Demo
 View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 For more Jekyll details, read [documentation](http://jekyllrb.com/).
