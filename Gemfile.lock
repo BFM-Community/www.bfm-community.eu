@@ -273,6 +273,7 @@ DEPENDENCIES
   jekyll-algolia
   jekyll-feed
   jekyll-gist
+  jekyll-seo-tag
   jekyll-sitemap
   jemoji
   tzinfo-data
