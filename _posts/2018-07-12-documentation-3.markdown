@@ -1,6 +1,7 @@
 ---
 layout: default
 img: documentation.png
+sitemap: false
 category: Home
 section: documentation
 title: Documentation

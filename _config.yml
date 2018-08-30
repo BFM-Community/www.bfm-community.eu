@@ -122,6 +122,12 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+defaults:
+  # Remove PDFs from the sitemap
+  - scope:
+      path:            "files/*.pdf"
+    values:
+      sitemap:         false
 
 # HTML Compression
 # - http://jch.penibelst.de/

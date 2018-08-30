@@ -1,6 +1,7 @@
 ---
 layout: default
 img: code.png
+sitemap: false
 category: Home
 section: code
 title: Get the code
