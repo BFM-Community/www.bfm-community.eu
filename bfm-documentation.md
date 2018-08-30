@@ -22,7 +22,7 @@ August 2015, Bologna, Italy, http://bfm-community.eu, pp. 31
 
 ---
 
-## Scientific Bibliography ([BibTex](files/BFM_bibliography_2018-02-09.bib))
+## Scientific Bibliography ([BibTex](../files/BFM_bibliography.bib))
 
 ### 2018
 

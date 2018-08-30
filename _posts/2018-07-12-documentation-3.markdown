@@ -9,7 +9,7 @@ description: |
 ---
 
 Check out the complete [scientific bibliography](bfm-documentation) or get it in once with the
-[BibTex archive](files/BFM_bibliography_2018-02-09.bib).
+[BibTex archive](files/BFM_bibliography.bib).
 
 Get the reference manuals from BFM Report Series: 
 
