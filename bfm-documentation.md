@@ -24,6 +24,10 @@ August 2015, Bologna, Italy, http://bfm-community.eu, pp. 31
 
 ## Scientific Bibliography ([BibTex](files/BFM_bibliography_2018-02-09.bib))
 
+### 2018
+
+Fransner, F., Gustafsson, E., Tedesco, L., Vichi, M., Hordoir, R., Roquet, F.,Spilling, K., Kuznetsov, I., Eilola, K., Mörth, C.-M., Humborg, C., Nycander, J. (2018). Non‐Redfieldian Dynamics Explain Seasonal pCO2 Drawdown in the Gulf of Bothnia. Journal of Geophysical Research: Oceans, 123(1), 166-188.
+
 ### 2017
 
 Mussap, G., & Zavatarelli, M. (2017). A numerical study of the
@@ -65,6 +69,8 @@ Journal of Marine Systems, 158, 106-119.
 Tedesco, L., Piroddi, C., Kämäri, M., & Lynam, C. (2016). Capabilities
 of Baltic Sea models to assess environmental status for marine
 biodiversity. Marine Policy, 70, 1-12.
+
+Tagliabue, A., Aumont, O., DeAth, R., Dunne, J. P., Dutkiewicz, S., Galbraith, E., Misumi, K., Moore, J.K., Ridgwell, A., Sherman, E., Stock, C., Vichi, M., Völker, C., Yool, A. (2016). How well do global ocean biogeochemistry models simulate dissolved iron distributions?. Global Biogeochemical Cycles, 30(2), 149-174.
 
 ### 2015
 
