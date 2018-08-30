@@ -59,7 +59,7 @@ Go to the Jekyll partials directory in [_includes](_includes) and find
 out the section you want to modify.
 
 For example, if you want to change the "about" text, [edit the
-about.html file](_includes/about.hml) directly in the Github editor,
+about.html file](_includes/about.html) directly in the Github editor,
 or in your local working directory.
 
 ### Website SEO Optimization
