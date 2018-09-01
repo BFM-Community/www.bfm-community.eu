@@ -1,5 +1,6 @@
 ---
 layout: page
+img: services/consortium.png
 title: Consortium
 id: bfm-consortium
 description: |
