@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Description
+img: services/about.png
 id: bfm-description
 description: |
 ---

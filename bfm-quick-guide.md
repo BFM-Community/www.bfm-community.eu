@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Quick Guide
+img: services/code.png
 id: quick-guide
 description: |
 ---
