@@ -10,7 +10,7 @@ h1, .h1, h2, .h2, h3, .h3  {
 .centered-image {
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 
 .inside-centered-image {
