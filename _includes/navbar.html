@@ -10,9 +10,13 @@
                 <span class="icon-bar"></span>
             </button>
          {% if page.url == "/" %}
-            <a class="navbar-brand page-scroll" href="#home">{{ site.title }}</a>
+            <a class="navbar-brand page-scroll" href="#home"
+               style="background-image: url({{ site.baseurl }}/img/logos/New_Logo_symbol.jpg);">
+              {{ site.title }}</a>
          {% else %}
-            <a class="navbar-brand" href="{{ site.baseurl }}/#home">{{ site.title }}</a>
+            <a class="navbar-brand" href="{{ site.baseurl }}/#home"
+               style="background-image: url({{ site.baseurl }}/img/logos/New_Logo_symbol.jpg);">
+              {{ site.title }}</a>
          {% endif %}
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->

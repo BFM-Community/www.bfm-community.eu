@@ -24,3 +24,13 @@
     transition: background 0.5s ease-out;
     transition-delay: 0.3s;
 }
+
+.navbar-brand {
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.navbar-brand {
+    padding-left: 3em;
+}
