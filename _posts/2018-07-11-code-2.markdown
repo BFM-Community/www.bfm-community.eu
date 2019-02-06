@@ -10,8 +10,7 @@ description: |
 
 You can get the latest release by compiling [this form](https://docs.google.com/forms/d/e/1FAIpQLScI7N8AcvFxBeCD-EXwMXkQhgMwjhOLz3MYX8Kb47oPCXRv6w/viewform?usp=sf_link){:target="_blank"}.
 
-After submission, an email will be automatically sent to you with a link to directly download the code.
+After the form submission, an email will be automatically sent to you with a temporary link to download the code compressed archive.
 
-Get started with installation and first use [Quick Guide](bfm-quick-guide).
 
 BFM is an open source software freely available under the GNU Public License [(GPL v3)](http://www.gnu.org/licenses/gpl.html "GNU Public License"){:target="_blank"}.
