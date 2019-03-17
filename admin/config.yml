@@ -1,0 +1,35 @@
+backend:
+  name: github
+  repo: CMCC-Foundation/www.bfm-community.eu
+  branch: master
+  base_url: https://1c4bi963n0.execute-api.eu-central-1.amazonaws.com
+  auth_endpoint: /prod/auth
+  site_domain: cmcc-foundation.github.io
+
+site_id: www.bfm-community.eu
+
+media_folder: "media/uploads"
+public_folder: "/media/uploads"
+
+collections:
+  - name: "pages"
+    label: "Pages" # Used in the UI
+    folder: "/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "layout", name: "layout", widget: "string"}
+      - {label: "permalink", name: "permalink", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "_posts/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
