@@ -20,10 +20,10 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "string"}
-      - {label: "Image", name: "img", widget: "image"}
+      - {label: "Image", name: "img", widget: "image", required: false}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Id", name: "id", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Description", name: "description", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "home-sections" # Used in routes, e.g., /admin/collections/blog
@@ -34,9 +34,9 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Image", name: "img", widget: "image"}
+      - {label: "Image", name: "img", widget: "image", required: false}
       - {label: "Sitemap", name: "sitemap", widget: "boolean"}
       - {label: "Category", name: "category", widget: "string"}
       - {label: "Section", name: "section", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Description", name: "description", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
