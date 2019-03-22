@@ -9,8 +9,8 @@ backend:
 
 site_id: www.bfm-community.eu
 
-media_folder: "img/services"
-public_folder: "img/services"
+media_folder: "media/uploads"
+public_folder: "media/uploads"
 
 collections:
   - name: "pages"
