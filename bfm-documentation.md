@@ -1,9 +1,9 @@
 ---
 layout: page
+img: /media/uploads/documentation.png
 title: Documentation
 id: documentation
-img: services/documentation.png
-description: |
+description: '|'
 ---
 
 ## BFM Report Series - Manuals
