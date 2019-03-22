@@ -1,9 +1,9 @@
 ---
 layout: page
+img: /media/uploads/code.png
 title: Quick Guide
-img: services/code.png
 id: quick-guide
-description: |
+description: '|'
 ---
 
 ## Installation Requirements
