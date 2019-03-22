@@ -1,11 +1,11 @@
 ---
 layout: default
-img: documentation.png
+title: Documentation
+img: /media/uploads/documentation.png
 sitemap: false
 category: Home
 section: documentation
-title: Documentation
-description: |
+description: '|'
 ---
 
 Get started with installation and first use [Quick Guide](bfm-quick-guide).
