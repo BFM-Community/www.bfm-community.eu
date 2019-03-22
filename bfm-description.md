@@ -1,6 +1,5 @@
 ---
 layout: page
-img: /media/uploads/bfm_scheme_v5_pelagic_web.png
 title: Description
 id: bfm-description
 description: '|'
@@ -8,7 +7,7 @@ description: '|'
 
 ## BFM in a few more words
 
-![BFM Scheme](/media/uploads/bfm_scheme_V5_pelagic_web.png){: .callout}
+![BFM Scheme](media/uploads/bfm_scheme_V5_pelagic_web.png){: .callout}
 
 The Biogeochemical Flux Model is a biomass-based numerical model to simulate the major biogeochemical processes occurring in pelagic, benthic and sea-ice components of marine ecosystems. The BFM considers the cycles of nitrogen, phosphorus, silica, iron, carbon, and oxygen in the water, sediments, sea ice and in the related organisms from bacteria to benthic meiofauna. All living organisms are Plankton dynamics are parameterized in terms of  functional groups with prescribed functional traits. For instance, the BFM plankton functional groups are subdivided in producers (phytoplankton), consumers (zooplankton), and decomposers (bacteria). These broad functional classifications are further partitioned into functional subgroups to create a planktonic food web (e.g. diatoms, picophytoplankton, microzooplankton, etc.).
 
