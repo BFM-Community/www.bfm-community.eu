@@ -1,9 +1,9 @@
 ---
 layout: page
-img: services/consortium.png
+img: /media/uploads/consortium.png
 title: Consortium
 id: bfm-consortium
-description: |
+description: '|'
 ---
 
 ## BFM Consortium Agreement
