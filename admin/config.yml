@@ -10,7 +10,7 @@ backend:
 site_id: www.bfm-community.eu
 
 media_folder: "img/services"
-public_folder: "/img/services"
+public_folder: "img/services"
 
 collections:
   - name: "pages"
