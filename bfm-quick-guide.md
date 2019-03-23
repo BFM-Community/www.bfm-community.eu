@@ -3,7 +3,6 @@ layout: page
 img: /media/uploads/code.png
 title: Quick Guide
 id: quick-guide
-description: '|'
 ---
 
 ## Installation Requirements

@@ -3,7 +3,6 @@ layout: page
 img: /media/uploads/consortium.png
 title: Consortium
 id: bfm-consortium
-description: '|'
 ---
 
 ## BFM Consortium Agreement

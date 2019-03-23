@@ -2,7 +2,6 @@
 layout: page
 title: Description
 id: bfm-description
-description: '|'
 ---
 
 ## BFM in a few more words

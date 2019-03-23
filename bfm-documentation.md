@@ -3,7 +3,6 @@ layout: page
 img: /media/uploads/documentation.png
 title: Documentation
 id: documentation
-description: '|'
 ---
 
 ## BFM Report Series - Manuals

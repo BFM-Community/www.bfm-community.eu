@@ -5,7 +5,6 @@ img: /media/uploads/documentation.png
 sitemap: false
 category: Home
 section: documentation
-description: '|'
 ---
 
 Get started with installation and first use [Quick Guide](bfm-quick-guide).
