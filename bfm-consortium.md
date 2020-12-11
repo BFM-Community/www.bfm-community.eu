@@ -36,6 +36,7 @@ Here below the chronology of work plan documents approved by the Steering Commit
 - Cosimo Solidoro (OGS, chairperson)
 - Nadia Pinardi (UNIBO DIFA)
 - Simona Masina (CMCC)
+- Marcello Vichi (UCT)
 
 ---
 
