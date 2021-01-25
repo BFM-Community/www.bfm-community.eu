@@ -14,7 +14,8 @@ The Consortium organization is detailed in the BFM agreement and current members
  - The BFM Agreement signed in Spring 2011 ([pdf](../files/BFM_AGREEMENT_2011.pdf))
  - First amendment to the Work Plan 2011-2013: May 2012 ([pdf](../files/BFM_WorkPlan_amendment_2012.pdf))
  - First amendment to the Annex 1 of the BFM Agreement: October 2013 ([pdf](../files/BFM_Agreement_Amendment_2013.pdf))
- - Annex 5, accession form of University of Cape Town: April 2015 ([pdf](../files/BFM_Annex_5_Accession_UCT.pdf))
+ - Accession form of University of Cape Town (UCT): April 2015 ([pdf](../files/BFM_Annex_5_Accession_UCT.pdf))
+ - Accession form of Finnish Environment Institute (SYKE): July 2016 ([pdf](../files/BFM_Annex_5_Accession_SYKE.pdf))
 
 <br/>
 
