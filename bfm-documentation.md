@@ -7,19 +7,22 @@ id: documentation
 
 ## BFM Report Series - Manuals
 
-N.1 Vichi M., Lovato T., Butenschön M., Tedesco L., Lazzari P., Cossarini G., Masina S.,
+### BFM core system
+Vichi M., Lovato T., Butenschön M., Tedesco L., Lazzari P., Cossarini G., Masina S.,
 Pinardi N., Solidoro C., Zavatarelli M. (2020). 
 The Biogeochemical Flux Model (BFM): Equation Description and User Manual. BFM version 5.2. 
 BFM Report series N. 1, Release 1.2, June 2020, Bologna, Italy,
 http://bfm-community.eu, pp. 104 ([pdf](../files/bfm-V5.2.0-manual_r1.2_202006.pdf))
 
-N.2 Lovato T., Vichi M., Butenschön M. (2020).
+### BFM-NEMO coupling
+Lovato T., Vichi M., Butenschön M. (2020).
 Coupling BFM with Ocean models: the NEMO model v3.6 (Nucleus for the
 European Modelling of the Ocean). BFM Report series N. 2, Release 1.1,
 June 2020, Bologna, Italy, http://bfm-community.eu, pp. 31
 ([pdf](../files/bfm-nemo-manual_r1.1_202006.pdf))
 
-N.3 Zavatarelli M., Pinardi N., Mussap G., Lovato T., Amadio C., Butenschön M., Vichi M. (2020).
+### BFM-POM1D coupling
+Zavatarelli M., Pinardi N., Mussap G., Lovato T., Amadio C., Butenschön M., Vichi M. (2020).
 Coupling BFM with Ocean models: the 1D Princeton Ocean Model.
 BFM Report series N. 3, Release 1.0, June 2020, Bologna, Italy, http://bfm-community.eu, pp. 58
 ([pdf](../files/bfm-pom-manual_r1.0_202006.pdf))
