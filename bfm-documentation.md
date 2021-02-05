@@ -5,9 +5,9 @@ title: Documentation
 id: documentation
 ---
 
-## BFM Report Series - Manuals
+## BFM Report Series
 
-### BFM core system
+### BFM core manual
 Vichi M., Lovato T., Butenschön M., Tedesco L., Lazzari P., Cossarini G., Masina S.,
 Pinardi N., Solidoro C., Zavatarelli M. (2020). 
 The Biogeochemical Flux Model (BFM): Equation Description and User Manual. BFM version 5.2. 
