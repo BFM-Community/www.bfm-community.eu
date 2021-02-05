@@ -28,16 +28,17 @@ Here below the chronology of work plan documents approved by the Steering Commit
 
 <br/>
 
-#### System Team Coordinator: Marco Zavatarelli (UNIBO DIFA)
+#### System Team Coordinator: Momme Butenschön (CMCC)
 
 #### Scientific Leader: Paolo Lazzari (OGS)
 
 #### Steering Committee members:
 
-- Cosimo Solidoro (OGS, chairperson)
+- Marcello Vichi (UCT, chairperson)
+- Cosimo Solidoro (OGS)
 - Nadia Pinardi (UNIBO DIFA)
 - Simona Masina (CMCC)
-- Marcello Vichi (UCT)
+- Letizia Tedesco (SYKE)
 
 ---
 

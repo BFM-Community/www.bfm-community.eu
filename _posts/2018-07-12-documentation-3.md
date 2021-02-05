@@ -7,7 +7,7 @@ category: Home
 section: documentation
 ---
 
-Get started with installation and first use [Quick Guide](bfm-quick-guide).
+Get started with the installation and first use [Quick Guide](bfm-quick-guide).
 
 Reference manuals from BFM Report Series: 
 
@@ -17,5 +17,5 @@ Reference manuals from BFM Report Series:
 
 - BFM-POM1D Coupling ([pdf](files/bfm-pom-manual_r1.0_202006.pdf))
 
-Check out the complete [scientific bibliography](bfm-documentation) or get it in once with the
+Check out the complete [scientific bibliography](bfm-documentation) or get it at once with the
 [BibTex archive](files/BFM_bibliography.bib).
