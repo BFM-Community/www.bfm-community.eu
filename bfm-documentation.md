@@ -29,9 +29,15 @@ BFM Report series N. 3, Release 1.0, June 2020, Bologna, Italy, http://bfm-commu
 
 ## Scientific Bibliography ([BibTex](../files/BFM_bibliography.bib))
 
+### 2019
+
+Tedesco, L., Vichi, M. and Scoccimarro, E., 2019. Sea-ice algal phenology in a warmer Arctic. Science Advances, 5(5), p.eaav4830.
+
 ### 2018
 
 Fransner, F., Gustafsson, E., Tedesco, L., Vichi, M., Hordoir, R., Roquet, F.,Spilling, K., Kuznetsov, I., Eilola, K., Mörth, C.-M., Humborg, C., Nycander, J. (2018). Non‐Redfieldian Dynamics Explain Seasonal pCO2 Drawdown in the Gulf of Bothnia. Journal of Geophysical Research: Oceans, 123(1), 166-188.
+
+Fransner, F., Fransson, A., Humborg, C., Gustafsson, E., Tedesco, L., Hordoir, R. and Nycander, J., 2019. Remineralization rate of terrestrial DOC as inferred from CO 2 supersaturated coastal waters. Biogeosciences, 16(4), pp.863-879.
 
 ### 2017
 
@@ -241,6 +247,10 @@ depth-integrated marine primary productivity over multiple decades: A
 case study at BATS and HOT. Global Biogeochemical Cycles, 24, GB3020,
 doi:10.1029/2009GB003655
 
+
+Tedesco, L. and Vichi, M., 2010. A new implementation of the Biogeochemical Flux Model in sea ice. CMCC Research Paper, (81).
+www.earth-prints.org/bitstream/2122/5956/6/rp0081.pdf
+
 Tedesco, L., Vichi, M., Haapala, J., and Stipa, T., 2010. A dynamic
 Biologically-Active Layer for numerical studies of the sea ice
 ecosystem. Ocean Modelling, 35, 89--104.
@@ -262,6 +272,9 @@ Azzaro, M., Azzaro, F., La Ferla, R., Catalano, G., and Cozzi,
 S., 2009. Modelling approach to the assessment of biogenic fluxes at a
 selected Ross Sea site, Antarctica. Ocean Sci. Discuss., 6,
 1477--1512. doi:http://www.ocean-sci-discuss.net/6/1477/2009/
+
+Tedesco, L., 2009. Modelling coupled physical-biogeochemical processes in ice-covered oceans. 
+University of Bologna (Italy) (PhD Thesis in Oceanography).
 
 ### 2008
 
