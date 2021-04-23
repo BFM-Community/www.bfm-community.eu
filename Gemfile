@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", ">= 3.7.4"
+gem "activesupport", ">= 4.1.11"
+gem "webrick", ">= 1.7.0"
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
