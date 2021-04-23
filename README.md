@@ -4,7 +4,8 @@ The website uses github pages through the [Jekyll](https://jekyllrb.com/) static
 
 ## Visualize the current website
 
-https://cmcc-foundation.github.io/www.bfm-community.eu/
+https://bfm-community.github.io/www.bfm-community.eu/
+(or in alternative go to www.bfm-community.eu)
 
 ## Develop locally
 
