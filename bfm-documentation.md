@@ -29,6 +29,30 @@ BFM Report series N. 3, Release 1.0, June 2020, Bologna, Italy, http://bfm-commu
 
 ## Scientific Bibliography ([BibTex](../files/BFM_bibliography.bib))
 
+### 2022
+
+Reale, M., Cossarini, G., Lazzari, P., Lovato, T., Bolzon, G., Masina, S., ... & Salon, S. (2022). Acidification, deoxygenation, and nutrient and biomass declines in a warming Mediterranean Sea. Biogeosciences, 19(17), 4035-4065.
+
+Lovato, T., Peano, D., Butenschön, M., Materia, S., Iovino, D., Scoccimarro, E., ... & Navarra, A. (2022). CMIP6 Simulations With the CMCC Earth System Model (CMCC‐ESM2). Journal of Advances in Modeling Earth Systems, 14(3), e2021MS002814.
+
+Di Biagio, V., Salon, S., Feudale, L., & Cossarini, G. (2022). Subsurface oxygen maximum in oligotrophic marine ecosystems: mapping the interaction between physical and biogeochemical processes. Biogeosciences Discussions, 1-33.
+
+Solidoro, C., Cossarini, G., Lazzari, P., Galli, G., Bolzon, G., Somot, S., & Salon, S. (2022). Modeling Carbon Budgets and Acidification in the Mediterranean Sea Ecosystem Under Contemporary and Future Climate. Frontiers in Marine Science, 8.
+
+### 2021
+
+Butenschön, M., Lovato, T., Masina, S., Caserini, S., & Grosso, M. (2021). Alkalinization scenarios in the Mediterranean Sea for efficient removal of atmospheric CO2 and the mitigation of ocean acidification. Frontiers in Climate, 3, 614537.
+
+Cossarini, G., Feudale, L., Teruzzi, A., Bolzon, G., Coidessa, G., Solidoro, C., ... & Salon, S. (2021). High-Resolution Reanalysis of the Mediterranean Sea Biogeochemistry (1999–2019). Frontiers in Marine Science, 8, 741486.
+
+Lazzari, P., Salon, S., Terzić, E., Gregg, W. W., d'Ortenzio, F., Vellucci, V., ... & Antoine, D. (2021). Assessment of the spectral downward irradiance at the surface of the Mediterranean Sea using the radiative Ocean-Atmosphere Spectral Irradiance Model (OASIM). Ocean Science, 17(3), 675-697.
+
+Terzić, E., Salon, S., Cossarini, G., Solidoro, C., Teruzzi, A., Miró, A., & Lazzari, P. (2021). Impact of interannually variable diffuse attenuation coefficients for downwelling irradiance on biogeochemical modelling. Ocean Modelling, 161, 101793.
+
+### 2020
+
+Di Biagio, V., Cossarini, G., Salon, S., & Solidoro, C. (2020). Extreme event waves in marine ecosystems: an application to Mediterranean Sea surface chlorophyll. Biogeosciences, 17(23), 5967-5988.
+
 ### 2019
 
 Tedesco, L., Vichi, M. and Scoccimarro, E., 2019. Sea-ice algal phenology in a warmer Arctic. Science Advances, 5(5), p.eaav4830.
