@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "= 3.9.0"
+gem "jekyll", "3.9.3"
 gem "activesupport", ">= 4.1.11"
 gem "webrick", ">= 1.7.0"
 gem "github-pages", group: :jekyll_plugins
