@@ -19,7 +19,7 @@ https://bfm-community.github.io/www.bfm-community.eu/
    ```
  - run the site locally and start editing content:
    ```shell
-   bundle exec jekyll liveserve
+   bundle exec jekyll serve
    ```
 
 ## How to use
