@@ -45,9 +45,9 @@ Here below the chronology of work plan documents approved by the Steering Commit
 ### System Team members
 
 |
-__UNIBO DIFA__ :  | Nadia Pinardi | Isabella Scroccaro | Luca Giacomelli |
+__UNIBO DIFA__ :  | Nadia Pinardi | Lorenzo Mentaschi | Luca Giacomelli |
 |
-__CMCC__       :  | Tomas Lovato | Momme Butenschön | Andrea Russo | Simona Masina |
+__CMCC__       :  | Tomas Lovato | Momme Butenschön | Giulia Bonino | Andrea Russo | Simona Masina |
 |
 __OGS__        :  | Paolo Lazzari | Giorgio Bolzon | Gianpiero Cossarini | Simone Libralato | Cosimo Solidoro |
 |
