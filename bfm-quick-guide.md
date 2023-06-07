@@ -15,7 +15,7 @@ id: quick-guide
 
 #### Software requirements:
 
-- PERL (version 5.8.2 and above), including Switch module (to install it launch `cpan` and type `install Switch`).
+- PERL (version 5.8.2 and above).
 - FORTRAN 90/95 compiler. Under linux and Mac OSX the model can be currently compiled with gfortran (version 4.6 or higher) and ifort.
 - [NetCDF library](http://www.unidata.ucar.edu/software/netcdf). It is mandatory that the library has been compiled with the same compiler used for the model compilation (as F90 netcdf module is used).
 - [GNU make](https://www.gnu.org/software/make/). Makefile only works with GNU make, therefore substitute your system make or use an alias to ensure that the right one is set in case you are not on a linux machine.

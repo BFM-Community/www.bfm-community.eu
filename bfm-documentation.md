@@ -7,27 +7,32 @@ id: documentation
 
 ## BFM Report Series
 
-#### 1. BFM core manual ([.pdf](../files/bfm-V5.2.0-manual_r1.2_202006.pdf))
-Vichi M., Lovato T., Butenschön M., Tedesco L., Lazzari P., Cossarini G., Masina S.,
-Pinardi N., Solidoro C., Zavatarelli M. (2020). 
-The Biogeochemical Flux Model (BFM): Equation Description and User Manual. BFM version 5.2. 
-BFM Report series N. 1, Release 1.2, June 2020, Bologna, Italy,
-http://bfm-community.eu, pp. 104
+#### 1. BFM core manual ([.pdf](../files/bfm-V5.3.0-manual_r1.3_202306.pdf))
+Vichi M., Lovato T., Butenschön M., Tedesco L., Lazzari P., Cossarini G., Masina S., Pinardi N., Solidoro C., Zavatarelli M. (2023). The Biogeochemical Flux Model (BFM): Equation Description and User Manual. BFM version 5.3. BFM Report series N. 1, Release 1.3, February 2023, Bologna, Italy, http://bfm-community.eu, pp. 104
 
-#### 2. BFM-NEMO coupling ([.pdf](../files/bfm-nemo-manual_r1.1_202006.pdf))
-Lovato T., Vichi M., Butenschön M. (2020).
-Coupling BFM with Ocean models: the NEMO model v3.6 (Nucleus for the
-European Modelling of the Ocean). BFM Report series N. 2, Release 1.1,
-June 2020, Bologna, Italy, http://bfm-community.eu, pp. 31
+#### 2. BFM-NEMO coupling ([.pdf](../files/bfm-nemo-manual_r2.0_202306.pdf))
+Lovato T., and Butenschön M. (2023). Coupling BFM with Ocean models: the NEMO model V4.2 (Nucleus for the European Modelling of the Ocean). BFM Report series N. 2, Release 2.0, February 2023, Bologna, Italy, http://bfm-community.eu, pp. 30
 
-#### 3. BFM-POM1D coupling ([.pdf](../files/bfm-pom-manual_r1.0_202006.pdf))
-Zavatarelli M., Pinardi N., Mussap G., Lovato T., Amadio C., Butenschön M., Vichi M. (2020).
-Coupling BFM with Ocean models: the 1D Princeton Ocean Model.
-BFM Report series N. 3, Release 1.0, June 2020, Bologna, Italy, http://bfm-community.eu, pp. 58
+#### 3. BFM-POM1D coupling ([.pdf](../files/bfm-pom-manual_r1.1_202306.pdf))
+Zavatarelli M., Pinardi N., Mussap G., Lovato T., Amadio C., Mentaschi L., Butenschön M., Vichi M. (2023). Coupling BFM with Ocean models: the 1D Princeton Ocean Model. BFM Report series N. 3, Release 1.1, February 2023, Bologna, Italy, http://bfm-community.eu, pp. 58
+
+#### 4. BFM-OGSTM coupling ([.pdf](../files/bfm-ogstm-manual_r1.0_202306.pdf))
+Lazzari, P., Bolzon, G. (2023). Coupling BFM with OGSTM model. BFM Report series N. 4, Release 1.0, February 2023, Trieste, Italy, http://bfm-community.eu, pp. 17
+
+#### 5. BFM-MITgcm coupling ([.pdf](../files/bfm-mitgcm-manual_r1.0_202306.pdf))
+Querin S., Cossarini G., Lazzari, P., Bolzon, G. (2023). Coupling BFM with MITgcm model. BFM Report series N. 5, Release 1.0, April 2023, Trieste, Italy, http://bfm-community.eu, pp. 13
+
+#### 6. BFM-FABM coupling ([.pdf](../files/bfm-fabm-manual_r1.0_202306.pdf))
+Álvarez, E., Teruzzi, A., Lazzari, P., Occhipinti, G., Cossarini, G., Bruggeman, J. (2023). Coupling BFM with FABM. BFM Report series N. 6, Release 1.0, April 2023, Trieste, Italy, http://bfm-community.eu, pp. 19
 
 ---
 
 ## Scientific Bibliography ([BibTex](../files/BFM_bibliography.bib))
+
+### 2023
+
+Kim, H. H., Laufkötter, C., Lovato, T., Doney, S. C., & Ducklow, H. W. (2023). Projected 21st-century changes in marine heterotrophic bacteria under climate change. Frontiers in Microbiology, 14.
+
 
 ### 2022
 
