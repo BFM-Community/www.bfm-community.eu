@@ -22,15 +22,14 @@ id: quick-guide
 
 ## Get started with STANDALONE presets
 
-Configuration and deployment of the model is done automatically by the script bfm_configure.sh found in the build directory. The minimal user local settings for compilation is provided by means of the environmental shell variable BFMDIR
+Configuration and deployment of the model is done automatically by the script bfm_configure.sh found in the build directory.
 
 ```bash
-export BFMDIR=/path/to/bfm
 cd $BFMDIR/build
 ./bfm_configure.sh -h
 ```
 
-The user-dependent options are set either through the command line of the script or by adjusting (or adding) an architecture file in directory $BFMDIR/compilers. Default file is gfortran.inc. The standard GNU gmake variables are used for compiler and archiver names. Remember to add the right path for the NetCDF library files in the appropriate .inc file.
+The user-dependent options are set either through the command line of the script or by adjusting (or adding) an architecture file in directory $BFMDIR/compilers. Default file is gfortran.inc. The standard GNU gmake variables are used for compiler and archiver names.
 
 If preset is not specified (see below), the STANDALONE configuration is compiled by default with the command
 
@@ -55,7 +54,7 @@ The execution of the configuration script creates the executable and the running
 ./bfm_configure.sh -P 
 ```
 
-The generated namelists are copied to the directory $BFMDIR/run/standalone.pelagic and the model is run by executing
+The generated namelists are copied to the directory $BFMDIR/run/standalone and the model is run by executing
 
 ```bash
 ./bfm_standalone.x
@@ -64,7 +63,7 @@ The generated namelists are copied to the directory $BFMDIR/run/standalone.pelag
 
 The following test cases are available:
 
-Surface layer model in a temperate pelagic water column with seasonal sinusoidal variability (STANDALONE)
+Surface layer model in a temperate pelagic water column and sediment return fuxes with seasonal sinusoidal variability (STANDALONE)
 
 ```bash
 ./bfm_configure.sh -gcd -p STANDALONE
@@ -75,6 +74,9 @@ Seaice ecosystem layer mode under realistic external forcings (STANDALONE_SEAICE
 ```bash
 ./bfm_configure.sh -gcd -p STANDALONE_SEAICE
 ```
+
+In the tools folder it is avalilable the standalone_diag python script to produce the figures of the model output for standalone configurations.
+
 
 ---
 
