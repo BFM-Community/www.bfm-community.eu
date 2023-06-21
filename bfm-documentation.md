@@ -36,6 +36,8 @@ Kim, H. H., Laufkötter, C., Lovato, T., Doney, S. C., & Ducklow, H. W. (2023). 
 
 ### 2022
 
+Campbell, K., Matero, I., Bellas, C., Turpin-Jelfs, T., Anhaus, P., Graeve, M., ... & Nicolaus, M. (2022). Monitoring a changing Arctic: Recent advancements in the study of sea ice microbial communities. Ambio, 51(2), 318-332.
+
 Reale, M., Cossarini, G., Lazzari, P., Lovato, T., Bolzon, G., Masina, S., ... & Salon, S. (2022). Acidification, deoxygenation, and nutrient and biomass declines in a warming Mediterranean Sea. Biogeosciences, 19(17), 4035-4065.
 
 Lovato, T., Peano, D., Butenschön, M., Materia, S., Iovino, D., Scoccimarro, E., ... & Navarra, A. (2022). CMIP6 Simulations With the CMCC Earth System Model (CMCC‐ESM2). Journal of Advances in Modeling Earth Systems, 14(3), e2021MS002814.

@@ -49,9 +49,10 @@ __UNIBO DIFA__ :  | Nadia Pinardi | Lorenzo Mentaschi | Luca Giacomelli |
 |
 __CMCC__       :  | Tomas Lovato | Momme Butenschön | Giulia Bonino | Andrea Russo | Simona Masina |
 |
-__OGS__        :  | Paolo Lazzari | Giorgio Bolzon | Gianpiero Cossarini | Simone Libralato | Cosimo Solidoro |
+__OGS__        :  | Eva Alvarez | Leslie Aveytua | Giorgio Bolzon | Donata Canu | Gianpiero Cossarini | Valeria Di Biagio |
+|                 | Célia Laurent | Paolo Lazzari | Guido Occhipinti | Marco Reale | Ginevra Rosati | Cosimo Solidoro |
 |
 __UCT__        :  | Marcello Vichi | Abdoulkadri Chama | Giles Fearon | Mark Hague | Riesna Audh | Shantelle Smith |
 |                 | Jonathan Rogerson |
 |
-__SYKE__       :  | Letizia Tedesco |
+__SYKE__       :  | Letizia Tedesco | Elina Miettunen | Iael Perez
