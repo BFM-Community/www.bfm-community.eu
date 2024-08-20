@@ -25,11 +25,25 @@ Querin S., Cossarini G., Lazzari, P., Bolzon, G. (2023). Coupling BFM with MITgc
 #### 6. BFM-FABM coupling ([.pdf](../files/bfm-fabm-manual_r1.0_202306.pdf))
 Álvarez, E., Teruzzi, A., Lazzari, P., Occhipinti, G., Cossarini, G., Bruggeman, J. (2023). Coupling BFM with FABM. BFM Report series N. 6, Release 1.0, April 2023, Trieste, Italy, http://bfm-community.eu, pp. 19
 
+<br>
+
+#### Previous BFM releases
+
+- #### BFM v5.2 manual ([Vichi et al., 2020](../files/bfm-old-manuals/bfm-V5.2.0-manual_r1.2_202006.pdf))
+- #### BFM v5.1 manual ([Vichi et al., 2015](../files/bfm-old-manuals/bfm-V5.1.0-manual_r1.1_201508.pdf))
+
 ---
 
 ## Scientific Bibliography ([BibTex](../files/BFM_bibliography.bib))
 
+
+### 2024
+
+Mentaschi, L., Lovato, T., Butenschön, M., Alessandri, J., Aragão, L., Verri, G.Guerra, G., Coppini, G., Pinardi, N. (2024). Projected climate oligotrophication of the Adriatic marine ecosystems. Frontiers in Climate, 6, 1338374.
+
 ### 2023
+
+Álvarez, E., Cossarini, G., Teruzzi, A., Bruggeman, J., Bolding, K., Ciavatta, S., ... & Lazzari, P. (2023). Chromophoric dissolved organic matter dynamics revealed through the optimization of an optical–biogeochemical model in the northwestern Mediterranean Sea. Biogeosciences, 20(22), 4591-4624.
 
 Kim, H. H., Laufkötter, C., Lovato, T., Doney, S. C., & Ducklow, H. W. (2023). Projected 21st-century changes in marine heterotrophic bacteria under climate change. Frontiers in Microbiology, 14.
 
