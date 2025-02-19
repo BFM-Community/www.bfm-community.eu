@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://bfm-community.github.io
-baseurl: "/www.bfm-community.eu"
+url: https://www.bfm-community
+baseurl: "/"
 title: BFM
 email: bfm_st@cmcc.it
 email_subject: Inquire about BFM
