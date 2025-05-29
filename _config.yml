@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: https://www.bfm-community.eu
-baseurl: "/"
+baseurl: ""
 title: BFM
 email: bfm_st@cmcc.it
 email_subject: Inquire about BFM

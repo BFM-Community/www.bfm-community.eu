@@ -9,6 +9,12 @@ https://bfm-community.github.io/www.bfm-community.eu/
 
 ## Develop locally
 
+ - Choose the correct ruby environment:
+   ```shell
+   eval "$(rbenv init - bash)"
+   rbenv local 3.0.6
+   ```
+
  - Install jekyll and bundler from
    [RubyGems](https://rubygems.org/pages/download) as described in the
    Jekyll [Quick-start guide](https://jekyllrb.com/docs/quickstart/);
